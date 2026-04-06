@@ -22,3 +22,9 @@ Tengo muchas ganas de aprender y me interesa profundizar en programación, aunqu
 
 Tengo un gato que se llama Mateo , el cual me acompaña siempre que estoy estudiando o trabajando es una de mis mejores compañias <3
 
+<div style="display:flex; justify-content:center; gap:15px;">
+  <img src="Mateo1.jpeg" alt="Mateo 1" width="200"/>
+  <img src="Mateo2.jpeg" alt="Mateo 2" width="200"/>
+  <img src="Mateo3.jpeg" alt="Mateo 3" width="200"/>
+</div>
+
